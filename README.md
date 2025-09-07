@@ -1,0 +1,1 @@
+This is a TodoList application. It takes in Tasks and also the category. All Task are rendered when the Application loads and Task can be filtered by checking each category boxes
